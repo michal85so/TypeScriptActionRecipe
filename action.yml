@@ -1,6 +1,8 @@
-name: The name of your action here
-description: Provide a description here
-author: Your name or organization here
+name: Receptura akcji TypeScript
+description:
+  Odczekuje kilka milisekund, zapisuje niesamowite podsumowanie zadania na
+  wyjściu przepływu pracy i zwraca bieżącą datę i godzinę.
+author: Michal
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
